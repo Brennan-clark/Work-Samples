@@ -1,4 +1,4 @@
-# Work Samples Sanitized
+# Work Samples
 
 This repository holds work samples by Brennan Clark, shared publicly for anyone evaluating my work. Each folder is one self-contained artifact with its own short write-up. Identifying details are anonymized: names, tickets and workstreams are placeholders. Views are my own.
 
