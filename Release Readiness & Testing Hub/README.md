@@ -22,5 +22,4 @@ Jira (read-only query) → fetch & cache (every 5 minutes) → reshape issues �
 |:--|:--|
 | [`demo.mp4`](demo.mp4) | 50-second product tour |
 | [`tour.jpg`](tour.jpg) | Poster frame |
-| [`share-copy-tour.txt`](share-copy-tour.txt) | Post copy for the tour |
 | [`tour-plan.md`](tour-plan.md) | Storyboard and production plan |

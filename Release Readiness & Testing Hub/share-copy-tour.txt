@@ -1,1 +1,0 @@
-A 50-second tour of the Release Readiness Dashboard: one page that turns Jira test and defect data into a go / no-go view for every test cycle, with exit criteria by workstream, execution against target, defect trends, and a drill-down to the ticket behind every number. Shown on anonymized program data: every name, ticket and workstream is a placeholder.
