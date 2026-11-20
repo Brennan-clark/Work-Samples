@@ -1,6 +1,6 @@
 # Release Readiness & Testing Hub
 
-A single page that turns Jira test and defect data into a go / no-go view for every test cycle, built for a large, multi-vendor global testing program. (Shown in the demo as the "Release Readiness Dashboard.")
+A single page that turns Jira test and defect data into a go / no-go view for every test cycle, built for a large, multi-vendor global transformation program. (Shown in the demo as the "Release Readiness Dashboard.")
 
 [![50-second demo](tour.jpg)](demo.mp4)
 
